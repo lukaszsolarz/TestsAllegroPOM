@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be3ae16d-1659-4400-877b-25a497d0344e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mTvSHCMeBbnQvszpTgygKFpAlA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="PageObject" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SearchEngine.TypePhrase">
+    <configuration name="SearchEngine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsAllegro_pl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SearchEngine" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchEngine.Category" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsAllegro_pl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SearchEngine" />
+      <option name="METHOD_NAME" value="Category" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchEngine.TypePhrase (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsAllegro_pl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SearchEngine" />
+      <option name="METHOD_NAME" value="TypePhrase(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchEngine.TypePhrase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsAllegro_pl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SearchEngine" />
+      <option name="METHOD_NAME" value="TypePhrase" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchEngine.testowa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsAllegro_pl" />
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SearchEngine" />
+      <option name="METHOD_NAME" value="testowa" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SearchEngine.TypePhrase" />
+        <item itemvalue="JUnit.SearchEngine.Category" />
+        <item itemvalue="JUnit.SearchEngine" />
+        <item itemvalue="JUnit.SearchEngine.TypePhrase (1)" />
+        <item itemvalue="JUnit.SearchEngine.testowa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be3ae16d-1659-4400-877b-25a497d0344e" name="Default Changelist" comment="" />
+      <created>1609530393599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609530393599</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="47" key="#Project_Structure" timestamp="1609530559206">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="480" y="47" key="#Project_Structure/0.23.1280.716@0.23.1280.716" timestamp="1609530559206" />
+    <state x="378" y="173" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1609538972011">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="378" y="173" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.800@0.0.1280.800" timestamp="1609538972011" />
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom" timestamp="1609884393498">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1609884393498" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1609531119228" />
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom/0.23.1280.717@0.23.1280.717" timestamp="1609881597656" />
+    <state width="1238" height="220" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1609740232500" />
+    <state width="1238" height="220" key="GridCell.Tab.0.center" timestamp="1609884393494">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1609884393494" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1609531119223" />
+    <state width="1238" height="220" key="GridCell.Tab.0.center/0.23.1280.717@0.23.1280.717" timestamp="1609881597653" />
+    <state width="1238" height="220" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1609740232498" />
+    <state width="1238" height="220" key="GridCell.Tab.0.left" timestamp="1609884393492">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1609884393492" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1609531119222" />
+    <state width="1238" height="220" key="GridCell.Tab.0.left/0.23.1280.717@0.23.1280.717" timestamp="1609881597650" />
+    <state width="1238" height="220" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1609740232497" />
+    <state width="1238" height="220" key="GridCell.Tab.0.right" timestamp="1609884393497">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1609884393497" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1609531119224" />
+    <state width="1238" height="220" key="GridCell.Tab.0.right/0.23.1280.717@0.23.1280.717" timestamp="1609881597655" />
+    <state width="1238" height="220" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1609740232499" />
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom" timestamp="1609884393126">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1609884393126" />
+    <state width="1238" height="212" key="GridCell.Tab.1.bottom/0.23.1280.716@0.23.1280.716" timestamp="1609531118893" />
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.717@0.23.1280.717" timestamp="1609881597288" />
+    <state width="1238" height="220" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1609740232507" />
+    <state width="1238" height="220" key="GridCell.Tab.1.center" timestamp="1609884393124">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1609884393124" />
+    <state width="1238" height="212" key="GridCell.Tab.1.center/0.23.1280.716@0.23.1280.716" timestamp="1609531118875" />
+    <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.717@0.23.1280.717" timestamp="1609881597285" />
+    <state width="1238" height="220" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1609740232504" />
+    <state width="1238" height="220" key="GridCell.Tab.1.left" timestamp="1609884393123">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1609884393123" />
+    <state width="1238" height="212" key="GridCell.Tab.1.left/0.23.1280.716@0.23.1280.716" timestamp="1609531118865" />
+    <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.717@0.23.1280.717" timestamp="1609881597283" />
+    <state width="1238" height="220" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1609740232502" />
+    <state width="1238" height="220" key="GridCell.Tab.1.right" timestamp="1609884393125">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="220" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1609884393125" />
+    <state width="1238" height="212" key="GridCell.Tab.1.right/0.23.1280.716@0.23.1280.716" timestamp="1609531118878" />
+    <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.717@0.23.1280.717" timestamp="1609881597287" />
+    <state width="1238" height="220" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1609740232505" />
+    <state x="141" y="23" width="997" height="716" key="SettingsEditor" timestamp="1609530823637">
+      <screen x="0" y="23" width="1280" height="716" />
+    </state>
+    <state x="141" y="23" width="997" height="716" key="SettingsEditor/0.23.1280.716@0.23.1280.716" timestamp="1609530823637" />
+    <state x="402" y="23" key="refactoring.ChangeSignatureDialog" timestamp="1609538528818">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="402" y="23" key="refactoring.ChangeSignatureDialog/0.0.1280.800@0.0.1280.800" timestamp="1609538528818" />
+  </component>
+</project>
