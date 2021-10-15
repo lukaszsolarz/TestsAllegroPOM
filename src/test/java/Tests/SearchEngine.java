@@ -16,7 +16,8 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 public class SearchEngine<phrase> {
 
     WebDriver driver;
-    By SearchedPhraseText = By.xpath("//input[@class='mr3m_1 mli2_1 mjyo_6x mse2_40 mqu1_40 mp4t_0 m3h2_0 mryx_0 munh_0 mg9e_0 mj7a_0 mh36_0 mvrt_8 mlkp_ag mefy_5r mldj_0 mm2b_0 _14uqc mgmw_q3 mh85_0 _535b5_1gH6X']");  // szukasz " "
+    By FieldSearchEngine = By.xpath("//input[@class='mr3m_1 mli2_1 mjyo_6x mse2_40 mqu1_40 mp4t_0 m3h2_0 mryx_0 munh_0 mg9e_0 mj7a_0 mh36_0 mvrt_8 mlkp_ag mefy_5r mldj_0 mm2b_0 _14uqc mgmw_q3 mh85_0 _535b5_1gH6X']");
+    By ListeningTitle = By.xpath("//div[@data-box-name='Listing title']//h1");
     By SearchedCategory = By.xpath("//a[@class='_1liky _w7z6o _uj8z7 _jmjqf _d2756_1wB6R _15tw4 _d2756_3KVjZ']/span");
     String phrase = "promocja";
     String categoryHouseAndGarden = "Dom i Ogród";
@@ -39,7 +40,8 @@ public class SearchEngine<phrase> {
         header.TypePhrase(phrase);
         header.Search();
         itemListPage.WaitForResultsAfterSearching();
-        assertTrue(driver.findElement(SearchedPhraseText).getAttribute("value").contains(phrase),"Szukana fraza nie zgadza się  wpisaną w wyszukiwarkę");
+        assertTrue(driver.findElement(FieldSearchEngine).getAttribute("value").contains(phrase),"Phrase is not correct");
+        assertTrue(driver.findElement(ListeningTitle).getText().contains(phrase),"Phrase is not correct");
     }
 
     @Test
